@@ -3,21 +3,25 @@
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&random=false&width=700&lines=Building+validated+ML+systems;Industrial+Diagnostics+%7C+Agent+Orchestration;Graph+Neural+Networks+%7C+DePIN+%2F+EVM;FastAPI+%C2%B7+PyTorch+%C2%B7+Three.js+%C2%B7+Solidity;Open+to+technical+collaborations" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&random=false&width=700&lines=Building+validated+ML+systems;Industrial+Diagnostics+%7C+Agent+Orchestration;Graph+Neural+Networks+%7C+DePIN+%2F+EVM;FastAPI+%C2%B7+PyTorch+%C2%B7+Three.js+%C2%B7+Solidity;Open+to+technical+collaborations" alt="Typing SVG" />
 </div>
 
 <br/>
 
 <div align="center">
-  <a href="https://shaunakrane.is-a.dev"><img src="https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-shaunakrane.is--a.dev-0ea5e9?style=for-the-badge&labelColor=0d1117" alt="Portfolio"/></a>
+  <a href="https://shaunakrane.is-a.dev">
+    <img src="https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-shaunakrane.is--a.dev-0ea5e9?style=for-the-badge&labelColor=0d1117" />
+  </a>
   &nbsp;
-  <a href="https://linkedin.com/in/shaunak-rane"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://linkedin.com/in/shaunak-rane">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
   &nbsp;
-  <a href="mailto:shaunakrane914@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:shaunakrane914@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Shaunakrane914&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Shaunakrane914&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS" />
 </div>
 
 <br/>
@@ -79,7 +83,6 @@ Key:    7D→1D continuous control · 500ms tick · x·y=k AMM
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
@@ -116,7 +119,6 @@ Note:   Physics baseline retained as explicit comparator
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
@@ -161,13 +163,9 @@ Key:    Menu→BOM→inventory pipeline · RF pax estimator
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,ts,js,solidity,html,css&theme=dark&perline=6" />
-
 <br/><br/>
-
 <img src="https://skillicons.dev/icons?i=pytorch,sklearn,fastapi,flask,nodejs,react&theme=dark&perline=6" />
-
 <br/><br/>
-
 <img src="https://skillicons.dev/icons?i=docker,postgres,supabase,threejs,git,github&theme=dark&perline=6" />
 
 <br/><br/>
@@ -178,7 +176,6 @@ Key:    Menu→BOM→inventory pipeline · RF pax estimator
 <img src="https://img.shields.io/badge/Circom_·_Groth16-6B46C1?style=flat-square&logo=ethereum&logoColor=white" />
 <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white" />
 <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" />
-<img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" />
 
 </div>
 
@@ -188,30 +185,16 @@ Key:    Menu→BOM→inventory pipeline · RF pax estimator
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shaunakrane914&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=10b981&text_color=e2e8f0&ring_color=6366f1&count_private=true" height="165" />
+<img src="https://streak-stats.demolab.com?user=Shaunakrane914&theme=tokyonight&hide_border=true&background=0d1117&stroke=0ea5e9&ring=10b981&fire=ff7a18&currStreakLabel=e2e8f0&sideLabels=e2e8f0&dates=64748b&date_format=j%20M%5B%20Y%5D" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/github/followers/Shaunakrane914?label=Followers&style=for-the-badge&logo=github&color=0ea5e9&labelColor=0d1117" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaunakrane914&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=e2e8f0&langs_count=8&hide=jupyter%20notebook" height="165" />
+<img src="https://img.shields.io/github/stars/Shaunakrane914?label=Total%20Stars&style=for-the-badge&logo=github&color=10b981&labelColor=0d1117" />
+&nbsp;
+<img src="https://img.shields.io/badge/Contributions-306-6366f1?style=for-the-badge&logo=github&labelColor=0d1117" />
 
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Shaunakrane914&theme=tokyonight&hide_border=true&background=0d1117&stroke=0ea5e9&ring=10b981&fire=ff7a18&currStreakLabel=e2e8f0&sideLabels=e2e8f0&dates=64748b" />
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shaunakrane914&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" />
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shaunakrane914&bg_color=0d1117&color=0ea5e9&line=10b981&point=ff7a18&area=true&hide_border=true" width="100%" />
 </div>
 
 ---
@@ -260,6 +243,6 @@ class ShaunakRane:
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7a18,40:10b981,80:6366f1,100:0ea5e9&height=130&section=footer&animation=fadeIn" width="100%" />
 
   *Available for technical collaborations · Built with care, not hype*
-
-  **[shaunakrane.is-a.dev](https://shaunakrane.is-a.dev)**
+  <br/>
+  <strong><a href="https://shaunakrane.is-a.dev">shaunakrane.is-a.dev</a></strong>
 </div>

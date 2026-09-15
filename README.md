@@ -30,7 +30,7 @@
 
 ```
 Industrial Diagnostics  →  Thermodynamic feature engineering · fouling detection · frozen benchmarks
-Agent Orchestration     →  Deterministic claim pipelines · async evidence stages · structured verdicts  
+Agent Orchestration     →  Deterministic claim pipelines · async evidence stages · structured verdicts
 Graph Neural Networks   →  Pore-network topology learning · physics-vs-ML regime benchmarks
 Distributed Energy      →  DDPG microgrid control · EVM AMM · Groth16 zk surplus proofs
 Geospatial / AgriTech   →  Farm-boundary capture · crop-yield scenario service · versioned adapters
@@ -44,10 +44,7 @@ Geospatial / AgriTech   →  Farm-boundary capture · crop-yield scenario servic
 <tr>
 <td width="50%" valign="top">
 
-<h3>
-  <img src="https://img.shields.io/badge/01-0ea5e9?style=flat-square" />
-  &nbsp;Project Aegis
-</h3>
+<h3><img src="https://img.shields.io/badge/01-0ea5e9?style=flat-square" />&nbsp;Project Aegis</h3>
 
 **Misinformation Investigation System**
 
@@ -58,17 +55,14 @@ Stack:  FastAPI · Gemini 2.5 Flash · Supabase · Netlify
 Key:    SHA-256 dedup · 2-stage research→verdict · RSS loop
 ```
 
-[![Live](https://img.shields.io/badge/▶_Live-agenticai914.netlify.app-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://agenticai914.netlify.app)
-[![Source](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Shaunakrane914/Misinformation)
+[![Live](https://img.shields.io/badge/▶_Live-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://agenticai914.netlify.app)
+[![Source](https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Shaunakrane914/Misinformation)
 [![Case Study](https://img.shields.io/badge/Case_Study-0ea5e9?style=flat-square)](https://shaunakrane.is-a.dev/aegis.html)
 
 </td>
 <td width="50%" valign="top">
 
-<h3>
-  <img src="https://img.shields.io/badge/02-ff7a18?style=flat-square" />
-  &nbsp;Gridium Protocol
-</h3>
+<h3><img src="https://img.shields.io/badge/02-ff7a18?style=flat-square" />&nbsp;Gridium Protocol</h3>
 
 **Distributed Microgrid + DePIN Prototype**
 
@@ -80,7 +74,7 @@ Key:    7D→1D continuous control · 500ms tick · x·y=k AMM
 ```
 
 [![Live](https://img.shields.io/badge/▶_Live-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)](https://live-ai-1-7tcy.vercel.app)
-[![Source](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Shaunakrane914/Gridium-Simulation)
+[![Source](https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Shaunakrane914/Gridium-Simulation)
 [![Case Study](https://img.shields.io/badge/Case_Study-ff7a18?style=flat-square)](https://shaunakrane.is-a.dev/gridium.html)
 
 </td>
@@ -89,10 +83,7 @@ Key:    7D→1D continuous control · 500ms tick · x·y=k AMM
 <tr>
 <td width="50%" valign="top">
 
-<h3>
-  <img src="https://img.shields.io/badge/03-10b981?style=flat-square" />
-  &nbsp;Compressor CBM
-</h3>
+<h3><img src="https://img.shields.io/badge/03-10b981?style=flat-square" />&nbsp;Compressor CBM</h3>
 
 **Industrial AI — Condition Monitoring** *(Internship)*
 
@@ -109,10 +100,7 @@ Note:   Private source; published methodology + evidence
 </td>
 <td width="50%" valign="top">
 
-<h3>
-  <img src="https://img.shields.io/badge/04-6366f1?style=flat-square" />
-  &nbsp;TopoFlow GNN
-</h3>
+<h3><img src="https://img.shields.io/badge/04-6366f1?style=flat-square" />&nbsp;TopoFlow GNN</h3>
 
 **Pore-Network Permeability · Graph Learning**
 
@@ -132,10 +120,7 @@ Note:   Physics baseline retained as explicit comparator
 <tr>
 <td width="50%" valign="top">
 
-<h3>
-  <img src="https://img.shields.io/badge/05-a855f7?style=flat-square" />
-  &nbsp;KrushiMitra
-</h3>
+<h3><img src="https://img.shields.io/badge/05-a855f7?style=flat-square" />&nbsp;KrushiMitra</h3>
 
 **Geospatial Crop-Yield Prototype**
 
@@ -146,16 +131,13 @@ Stack:  React 18 · TypeScript · FastAPI · Pydantic · Leaflet
 Key:    Esri satellite · Radix UI · scikit-learn adapter
 ```
 
-[![Source](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Shaunakrane914/Yield-Ai)
+[![Source](https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Shaunakrane914/Yield-Ai)
 [![Case Study](https://img.shields.io/badge/Case_Study-a855f7?style=flat-square)](https://shaunakrane.is-a.dev/yield.html)
 
 </td>
 <td width="50%" valign="top">
 
-<h3>
-  <img src="https://img.shields.io/badge/06-f59e0b?style=flat-square" />
-  &nbsp;Food Operations
-</h3>
+<h3><img src="https://img.shields.io/badge/06-f59e0b?style=flat-square" />&nbsp;Food Operations</h3>
 
 **Institutional Operations Software** *(Internship)*
 
@@ -188,19 +170,16 @@ Key:    Menu→BOM→inventory pipeline · RF pax estimator
 
 <img src="https://skillicons.dev/icons?i=docker,postgres,supabase,threejs,git,github&theme=dark&perline=6" />
 
-</div>
+<br/><br/>
 
-<br/>
+<img src="https://img.shields.io/badge/PyTorch_Geometric-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini_2.5-4285F4?style=flat-square&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white" />
+<img src="https://img.shields.io/badge/Circom_·_Groth16-6B46C1?style=flat-square&logo=ethereum&logoColor=white" />
+<img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white" />
+<img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" />
+<img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" />
 
-<div align="center">
-  <img src="https://img.shields.io/badge/PyTorch_Geometric-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini_2.5_Flash-4285F4?style=flat-square&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white" />
-  <img src="https://img.shields.io/badge/Circom-6B46C1?style=flat-square&logo=ethereum&logoColor=white" />
-  <img src="https://img.shields.io/badge/Groth16-6B46C1?style=flat-square&logo=ethereum&logoColor=white" />
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white" />
-  <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" />
 </div>
 
 ---
@@ -208,19 +187,23 @@ Key:    Menu→BOM→inventory pipeline · RF pax estimator
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shaunakrane914&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=10b981&text_color=e2e8f0&ring_color=6366f1&count_private=true&rank_icon=github&show=reviews,prs_merged" height="170" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaunakrane914&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=e2e8f0&langs_count=8&hide=jupyter%20notebook" height="170" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=Shaunakrane914&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=10b981&text_color=e2e8f0&ring_color=6366f1&count_private=true" height="165" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaunakrane914&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=e2e8f0&langs_count=8&hide=jupyter%20notebook" height="165" />
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Shaunakrane914&theme=tokyonight&hide_border=true&background=0d1117&stroke=0ea5e9&ring=10b981&fire=ff7a18&currStreakLabel=e2e8f0&sideLabels=e2e8f0&dates=64748b" />
+
+<img src="https://streak-stats.demolab.com?user=Shaunakrane914&theme=tokyonight&hide_border=true&background=0d1117&stroke=0ea5e9&ring=10b981&fire=ff7a18&currStreakLabel=e2e8f0&sideLabels=e2e8f0&dates=64748b" />
+
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shaunakrane914&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Shaunakrane914&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" />
 </div>
 
 ---
@@ -228,7 +211,7 @@ Key:    Menu→BOM→inventory pipeline · RF pax estimator
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shaunakrane914&bg_color=0d1117&color=0ea5e9&line=10b981&point=ff7a18&area=true&hide_border=true&area_color=0ea5e920" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shaunakrane914&bg_color=0d1117&color=0ea5e9&line=10b981&point=ff7a18&area=true&hide_border=true" width="100%" />
 </div>
 
 ---
@@ -236,7 +219,11 @@ Key:    Menu→BOM→inventory pipeline · RF pax estimator
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Shaunakrane914/Shaunakrane914/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shaunakrane914/Shaunakrane914/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shaunakrane914/Shaunakrane914/output/github-contribution-grid-snake.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/Shaunakrane914/Shaunakrane914/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
 </div>
 
 ---
@@ -246,7 +233,7 @@ Key:    Menu→BOM→inventory pipeline · RF pax estimator
 ```python
 class ShaunakRane:
     role     = "Machine-Learning Systems Engineer"
-    location = "India 🇮🇳"
+    location = "India"
     domains  = [
         "Industrial Diagnostics",   # thermodynamics · signal processing · CBM
         "Agent Orchestration",      # LLM pipelines · async state machines

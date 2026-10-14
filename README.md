@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,40:6366f1,80:10b981,100:ff7a18&height=220&section=header&text=Shaunak%20Rane&fontSize=56&fontColor=fff&fontAlignY=36&desc=Machine-Learning%20Systems%20Engineer&descSize=19&descAlignY=56&animation=fadeIn" width="100%" />
 </div>
 
@@ -185,7 +185,7 @@ Key:    Menu→BOM→inventory pipeline · RF pax estimator
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Shaunakrane914&theme=tokyonight&hide_border=true&background=0d1117&stroke=0ea5e9&ring=10b981&fire=ff7a18&currStreakLabel=e2e8f0&sideLabels=e2e8f0&dates=64748b&date_format=j%20M%5B%20Y%5D" />
+<img src="https://streak-stats.demolab.com?user=Shaunakrane914&timezone=Asia/Kolkata&theme=tokyonight&hide_border=true&background=0d1117&stroke=0ea5e9&ring=10b981&fire=ff7a18&currStreakLabel=e2e8f0&sideLabels=e2e8f0&dates=64748b&date_format=j%20M%5B%20Y%5D" />
 
 <br/><br/>
 
